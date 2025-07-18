@@ -2,7 +2,7 @@
     "name": "Darli USD",
     "symbol": "USDa",
     "description": "USD stablecoin token of Darli",
-    "image": "https://raw.githubusercontent.com/darli-protocol/usda/main/assets/usda-coin.png",
+    "image": "https://raw.githubusercontent.com/darli-protocol/usda/main/asset/usda-coin.png",
     "extensions": {
     "website": "https://darli.xyz"
     }
