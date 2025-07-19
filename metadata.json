@@ -1,7 +1,7 @@
 {
     "name": "Darli USD",
     "symbol": "USDa",
-    "description": "USD stablecoin token of Darli",
+    "description": "Darli USD, a USD-pegged stablecoin for Darli ecosystem.",
     "image": "https://raw.githubusercontent.com/darli-protocol/usda/main/asset/usda-coin.png",
     "extensions": {
     "website": "https://darli.xyz"
