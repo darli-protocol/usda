@@ -4,6 +4,7 @@
     "description": "Darli's Unbiased Stable Dollar, Pegged to the U.S. Dollar.",
     "image": "https://raw.githubusercontent.com/darli-protocol/usda/main/asset/usda-coin.png",
     "extensions": {
-    "website": "https://darli.xyz"
+    "website": "https://darli.xyz",
+    "github": "https://github.com/darli-protocol"
     }
 }
