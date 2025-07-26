@@ -1,6 +1,6 @@
 {
     "name": "Darli USD",
-    "symbol": "USD",
+    "symbol": "USDARLI",
     "description": "Darli's Unbiased Stable Dollar, Pegged to the U.S. Dollar.",
     "image": "https://raw.githubusercontent.com/darli-protocol/usda/main/asset/usda-coin.png",
     "extensions": {
